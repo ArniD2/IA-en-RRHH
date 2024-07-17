@@ -1,4 +1,4 @@
-#¡La IA está transformando los RRHH! Descubre cómo esta tecnología está revolucionando la gestión del talento. #IA #RRHH #futurodeltrabajo
+# ¡La IA está transformando los RRHH! Descubre cómo esta tecnología está revolucionando la gestión del talento. #IA #RRHH #futurodeltrabajo
 
 ###
 ¿Sabías que la IA está automatizando tareas, optimizando decisiones y personalizando experiencias en los departamentos de RRHH? ¡Conoce más sobre cómo esta tecnología está impactando el futuro del trabajo!
