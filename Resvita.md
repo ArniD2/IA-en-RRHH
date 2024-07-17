@@ -18,7 +18,7 @@ La IA facilita la creación de experiencias personalizadas para cada colaborador
 
 ## Desafíos a considerar
 
-![Robo de datos, encapuchado de perfil, números de fondo, oscuro, tecnología](https://www.shutterstock.com/image-photo/hacker-hoodie-dark-theme-260nw-1480095632.jpg)
+![Robo de datos, encapuchado de perfil, números de fondo, oscuro, tecnología](https://img.freepik.com/foto-gratis/ataque-cibernetico-pirata-informatico-encapuchado-irreconocible-utilizando-realidad-virtual-efecto-falla-digital_146671-18957.jpg?t=st=1721245705~exp=1721249305~hmac=444688f84a717f2a019e24fe16657d110950657fa1438e66372f76e753f90306&w=740)
 
 ### Sesgo algorítmico
 Es crucial garantizar que los algoritmos de IA no perpetúen sesgos inconscientes que puedan discriminar a ciertos grupos de empleados. La transparencia y la auditoría de los algoritmos son esenciales para mitigar este riesgo y garantizar la equidad en los procesos de RRHH.
